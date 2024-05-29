@@ -1,4 +1,0 @@
-darkhiggs_Mz200_mhs90_Mdm150
-darkhiggs_Mz1000_mhs110_Mdm500
-darkhiggs_Mz3000_mhs50_Mdm1500
-darkhiggs_Mz200_mhs90_Mdm100
