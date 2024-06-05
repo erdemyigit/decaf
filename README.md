@@ -415,3 +415,8 @@ Then you get combined root files in the `plots/darkhiggs2018/dump` directory.
 python macros/dump_darkhiggs_postfit.py plots/darkhiggs2018/dump/outputs.root
 ```
 This will make postfit stack plots.   
+
+### Additional Instructions
+
+[Analysis Workflow](https://docs.google.com/document/d/1BYB9_YY7eY5BX4f_QzLHAYc_nmO-Kc_jetFylSmpeeo/edit?usp=sharing)
+
